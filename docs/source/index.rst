@@ -25,7 +25,7 @@ Scripts
    :maxdepth: 2
    :caption: Contents:
 
-   camera
+   modules
 
 
 Indices and tables
