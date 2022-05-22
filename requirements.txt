@@ -17,7 +17,7 @@ Jinja2==3.1.2
 keyring==23.5.0
 MarkupSafe==2.1.1
 mypy-extensions==0.4.3
-numpy==1.22.4
+numpy>1.20
 opencv-python==4.5.5.64
 packaging==21.3
 pathspec==0.9.0
