@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="videoutils",
-    version="0.0.1",
+    name="sp_videoutils",
+    version="0.0.2",
     description="Scripts for saving and splitting video files for other projects",
     scripts=['scripts/video_capture.py', 'scripts/video_split.py'],
     long_description=long_description,
@@ -19,7 +19,7 @@ setup(
         "Development Status :: 3 - Alpha"
     ],
 
-    url="https://github.com/sanjees/videoutils",
+    url="https://github.com/sanjeevs/videoutils",
     author="Sanjeev Singh",
     author_email="snjvsingh123@gmail.com",
 
